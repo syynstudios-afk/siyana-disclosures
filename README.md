@@ -1,5 +1,3 @@
-# siyana-disclosures
-Documentation and transparency disclosures related to the Syyn transition
 # Syyn Disclosures
 
 This repository serves as a transparent archive of documents related to the Syyn transition.

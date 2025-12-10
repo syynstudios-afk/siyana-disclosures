@@ -1,12 +1,17 @@
-# Syyn Disclosures
+# Siyana Disclosures
 
-This repository serves as a transparent archive of documents related to the Syyn transition
+Documentation and transparency materials related to the Syyn transition.
 
-## Files
+---
 
-- **Redacted Investor Agreement**  
-  A clean, redacted version of the agreement that was proposed in December.  
-  [View PDF](./investor-agreement-syyn-redacted.pdf)
+## Contents
 
-## Purpose
-The goal of this repository is to provide long-term clarity and transparency for anyone in the Syyn or Siyana community.
+- **📝 Investor Agreement (Redacted)**  
+  [`investor-agreement-syyn-redacted.pdf`](./investor-agreement-syyn-redacted.pdf)
+
+- **🔗 Transaction Records**  
+  [`transactions.md`](./transactions.md)
+
+---
+
+All documents published are strictly for transparency and community clarity.

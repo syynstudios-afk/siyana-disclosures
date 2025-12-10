@@ -1,6 +1,6 @@
 # Transactions
 
-## Full Supply Sent to Me
+## Full Supply Sent to Founder
 https://basescan.org/tx/0x6672fec0a5103b86e7df3022a1f4881f6533f379590e3748e1f7df090a6ee899
 
 ## Supply Returned Immediately

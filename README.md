@@ -1,6 +1,6 @@
 # Syyn Disclosures
 
-This repository serves as a transparent archive of documents related to the Syyn transition.
+This repository serves as a transparent archive of documents related to the Syyn transition
 
 ## Files
 
